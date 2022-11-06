@@ -1,0 +1,2 @@
+# WstepDoProgrampwania
+Information for programing
